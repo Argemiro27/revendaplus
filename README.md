@@ -11,6 +11,8 @@ Ele conseguirá ter acesso aos produtos, sku, preço de compra, foto, e em cima 
 Dessa forma ele conseguirá ter um controle das compras de produtos. Além disso, uma outra tabela estoque pra inserir os produtos que foram comprados e suas respectivas quantidades.
 O sistema conta ainda com um formulário e listagem de vendas. A proposta é desenvolver um sistema que não só cadastra os produtos e estoque, como também controla entrada e saída de produtos, lucratividade mensal, etc.
 
+/****************************************************************************************/
+
 Endpoints:
 
 ESTOQUE:
