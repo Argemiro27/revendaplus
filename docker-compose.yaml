@@ -1,0 +1,10 @@
+version: '3'
+services:
+  frontend:
+    image: revendaplusimage:latest
+    ports:
+      - 8001:8001
+  backend:
+    image: revendaplus-back:latest
+    ports:
+      - 9001:9001
